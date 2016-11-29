@@ -16,7 +16,7 @@ board.on("ready", function(){
   });
 
   this.wait(10000, function(){
-    anote.off();
+    anode.off();
   });
 
   anode.on();
